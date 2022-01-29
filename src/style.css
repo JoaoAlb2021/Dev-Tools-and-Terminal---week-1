@@ -1,0 +1,178 @@
+
+        body{
+            background-color: rgb(223, 223, 223);
+        }
+        h1{
+            font-size: 500%;
+            text-align: center;
+        }
+       
+        p{
+            margin:0;
+
+        }
+        .text_intro{
+            position: relative;
+            
+            text-align: justify;
+            font-size: 20px;
+            border:5px solid rgb(22, 48, 5);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+        }
+        #intro_1{
+            position: absolute;
+            top:20px;
+            margin-left: 5px;
+            padding: 5px;
+            margin-right: 70%;
+            border: 3px solid rgba(82, 38, 8, 0.87);
+            
+            
+        }
+        #intro_2{
+            position: absolute;
+            top:20px;
+            margin-left: 5px;
+            padding: 5px;
+            border: 3px solid rgba(82, 38, 8, 0.87);
+            margin-left: 35%;
+            margin-right: 35%;
+        }
+        #intro_3{
+            position: absolute;
+            top:20px;
+            margin-right: 5px;
+            padding: 5px;
+            border: 3px solid rgba(82, 38, 8, 0.87);
+            margin-left: 70%;
+            
+        }
+        .logos{
+            position: relative;
+            top:220px;
+        }
+        #logo_xiaomi{
+            position: absolute;
+            top: 0ch;
+            left: 10%;
+            
+        }
+        #logo_samsung{
+            position: absolute;
+            top: 0ch;
+            left: 30%;
+            
+        }
+        #logo_apple{
+            position: absolute;
+            top: 0ch;
+            left: 80%;
+            
+        }
+        .marcas{
+            position: absolute;
+            background-color: rgba(218, 200, 42, 0.623);
+            padding: 15px;
+            margin-left: 30%;
+            margin-right: 30%;
+            text-align: justify;
+            border: 5px solid red;
+            top:650px;
+        }
+        .catalogo{
+            position: relative;
+            top:700px;
+        }
+        .marca_xiaomi{
+            position: relative;
+            
+        }
+        .marca_samsung{
+            position: relative;
+            
+            top:1450px;
+        }
+        #cat_samsung{
+            left: 25%;
+        }
+        .marca_apple{
+            position: relative;
+            top:2900px;
+        }
+        #cat_apple{
+            left:35%
+        }
+        .logo_catalogo{
+            position: absolute;
+            
+            padding: 50px;
+            left:40%;
+        }
+        .intro_cat{
+            position: absolute;
+            margin-right: 15%;
+            margin-left: 15%;
+            text-align: center;
+            top:350px;
+        }
+        .modelo_1{
+            border:5px solid black;
+            position: absolute;
+            top:600px;
+            padding: 10px;
+
+        }
+        .modelo_2{
+            border:5px solid black;
+            position: absolute;
+            top:600px;
+            left:35%;
+            padding: 10px;
+            
+        }
+        .modelo_3{
+            border:5px solid black;
+            position: absolute;
+            top:600px;
+            left:70%;
+            padding: 10px;
+        }
+        .img_mod{
+            position: relative;
+            left: 30px;  
+        }
+        .tabla_marca{
+            font-size: 150%;
+            position: absolute;
+            top:1100px;
+            right: 20%;
+            
+        }
+        #tabla_apple{
+            position: absolute;
+            right: 30%
+        }
+        table, td, th{
+            border: 1px solid;
+            margin-left: 25%;
+            
+        }
+        th{
+            text-align: left;
+        }
+        thead{
+            text-align: center;
+        }
+        .title_xiaomi{
+            color:rgb(255, 115, 0);
+            font-size:120%;
+            text-align: center;
+        }
+        .inicio{
+            position: absolute;
+            top:1100px;
+            right: 0
+
+        }
+   
